@@ -1,4 +1,4 @@
-<h1 align="middle">Bootacamp TQI Fullstack Developer - DIO</h1>
+<h1 align="middle">Bootcamp TQI Fullstack Developer - DIO</h1>
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/104697914/170798526-070da459-23a3-4008-80e4-0078b98d40e0.png" height=300>
