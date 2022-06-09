@@ -23,7 +23,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 ### 📅 Conteúdo programático
 
 <details>
-  <summary>Módulo I - Conteúdo de abertura</summary>
+  <summary>Módulo I - Conteúdo de abertura ✔️</summary>
   
   * Boas Vindas ao TQI Fullstack Developer
   * Aula inaugural - TQI Fullstack Developer (Live)
@@ -34,7 +34,7 @@ Este repositório contém os desafios, exercícios e atividades desenvolvidos du
 </details>
 
 <details>
-  <summary>Módulo II - HTML/CSS3</summary>
+  <summary>Módulo II - HTML/CSS3 ✔️</summary>
   
   * Introdução à criação de websites com HTML5 e CSS3
   * Desenvolvendo um menu hamburguer e morphing menu com CSS transitions
